@@ -27,6 +27,6 @@ Required Demo:
 ![](twitterdemo.gif)
 
 Bonus Demo:
-![](twitterbonusdemo.gif)
+![](twitterdemobonus.gif)
 
 
