@@ -44,6 +44,7 @@ class HomeTableViewController: UITableViewController {
             
         }, failure: { (Error) in
             print("Could not retrieve tweets")
+            print(Error.localizedDescription)
         })
     }
     
