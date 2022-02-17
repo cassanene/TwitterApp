@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
--[](twitterdemopart2.gif)
+![](twitterdemopart2.gif)
 
 # Project 3 - *Twitter*
 
